@@ -111,24 +111,24 @@ This game was programmed using C# as a programming language, our own game engine
 # Trouble Shooting
 The game comes with a settings.ini file that allows you to customize some settings. You can also access these settings from the settings menu within the game. If you're having performance issues you can lower the solid world resolution as well as the transparency resolution. Transparency usually has a way larger impact than the solid world. You can also lower the number of correctly sorted layers of transparency, which has an even greater effect on performance.
 
-[imgShotgun]:         https://github.com/ChaosTechnology/DOWN/blob/main/Images/Shotgun%20Reloading.png
-[imgRocketLauncher]:  https://github.com/ChaosTechnology/DOWN/blob/main/Images/Rocket%20Launcher%20Reloading.png
-[imgSlingshot]:       https://github.com/ChaosTechnology/DOWN/blob/main/Images/Slingshot.png
-[imgEnc]:             https://github.com/ChaosTechnology/DOWN/blob/main/Images/Encounter%20Planes.png
-[imgEncBlue]:         https://github.com/ChaosTechnology/DOWN/blob/main/Images/Encounter%20Plane%20Blue.png
-[imgEncRed]:          https://github.com/ChaosTechnology/DOWN/blob/main/Images/Encouter%20Plane%20Red%20(killing%20Enemy).png
-[imgEncPortal]:       https://github.com/ChaosTechnology/DOWN/blob/main/Images/Encounter%20Portal.png
-[imgHealthPack]:      https://github.com/ChaosTechnology/DOWN/blob/main/Images/Pickup%20Health%20Pack.png
-[imgHealthBeacon]:    https://github.com/ChaosTechnology/DOWN/blob/main/Images/Pickup%20Health%20Beacon.png
-[imgShells]:          https://github.com/ChaosTechnology/DOWN/blob/main/Images/Pickup%20Shells.png
-[imgRockets]:         https://github.com/ChaosTechnology/DOWN/blob/main/Images/Pickup%20Rockets.png
-[imgGrenades]:        https://github.com/ChaosTechnology/DOWN/blob/main/Images/Pickup%20Grenades.png
-[imgBoom]:            https://github.com/ChaosTechnology/DOWN/blob/main/Images/Explosion%20Damage.png
-[imgDeath]:           https://github.com/ChaosTechnology/DOWN/blob/main/Images/Death.png
-[imgDmg]:             https://github.com/ChaosTechnology/DOWN/blob/main/Images/Damage.png
-[imgBarrel]:          https://github.com/ChaosTechnology/DOWN/blob/main/Images/Barrels.png
-[imgFlying]:          https://github.com/ChaosTechnology/DOWN/blob/main/Images/Flying%20Enemies.png
-[imgLaunchPad]:       https://github.com/ChaosTechnology/DOWN/blob/main/Images/LaunchPad.png
-[imgPortalBlue]:      https://github.com/ChaosTechnology/DOWN/blob/main/Images/Portal%20Blue.png
-[imgPortalGreen]:     https://github.com/ChaosTechnology/DOWN/blob/main/Images/Portal%20Green.png
-[imgPortalPink]:      https://github.com/ChaosTechnology/DOWN/blob/main/Images/Portal%20Pink.png
+[imgShotgun]:         https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Shotgun%20Reloading.png
+[imgRocketLauncher]:  https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Rocket%20Launcher%20Reloading.png
+[imgSlingshot]:       https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Slingshot.png
+[imgEnc]:             https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Encounter%20Planes.png
+[imgEncBlue]:         https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Encounter%20Plane%20Blue.png
+[imgEncRed]:          https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Encouter%20Plane%20Red%20(killing%20Enemy).png
+[imgEncPortal]:       https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Encounter%20Portal.png
+[imgHealthPack]:      https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Pickup%20Health%20Pack.png
+[imgHealthBeacon]:    https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Pickup%20Health%20Beacon.png
+[imgShells]:          https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Pickup%20Shells.png
+[imgRockets]:         https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Pickup%20Rockets.png
+[imgGrenades]:        https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Pickup%20Grenades.png
+[imgBoom]:            https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Explosion%20Damage.png
+[imgDeath]:           https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Death.png
+[imgDmg]:             https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Damage.png
+[imgBarrel]:          https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Barrels.png
+[imgFlying]:          https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Flying%20Enemies.png
+[imgLaunchPad]:       https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/LaunchPad.png
+[imgPortalBlue]:      https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Portal%20Blue.png
+[imgPortalGreen]:     https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Portal%20Green.png
+[imgPortalPink]:      https://github.com/ChaosTechnology/DOWN/blob/chaos/Images/Portal%20Pink.png
