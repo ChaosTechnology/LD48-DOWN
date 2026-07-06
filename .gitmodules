@@ -103,3 +103,6 @@
 [submodule "submodules/ChaosFramework.Platform.WinForms"]
 	path = submodules/ChaosFramework.Platform.WinForms
 	url = ../../ChaosFramework/ChaosFramework.Platform.WinForms.git
+[submodule "submodules/ChaosFramework.Menu.OpenGL"]
+	path = submodules/ChaosFramework.Menu.OpenGL
+	url = ../../ChaosFramework/ChaosFramework.Menu.OpenGL.git
